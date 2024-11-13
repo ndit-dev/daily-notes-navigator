@@ -1,0 +1,9 @@
+{
+    "id": "daily-notes-navigator",
+    "name": "Daily Notes Navigator",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "Adds commands to navigate to next and previous daily notes relative to the current note",
+    "author": "Your Name",
+    "isDesktopOnly": false
+}
